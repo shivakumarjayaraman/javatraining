@@ -3,8 +3,8 @@
 	<modelVersion>4.0.0</modelVersion>
 	<version>1.0</version>
 
-	<groupId>com.cisco.broadworks.starter</groupId>
-	<artifactId>bwks_starter</artifactId>
+	<groupId>javatraining</groupId>
+	<artifactId>javatraining</artifactId>
 	<description>
   </description>
 	<url>https://wwwin-github.cisco.com/BWKS-Monitoring/broadworks-exporter</url>
